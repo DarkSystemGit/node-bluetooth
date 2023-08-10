@@ -1,6 +1,6 @@
-#Node-BlueZ
+# Node-BlueZ
+A libary to deal with bluetooth on linux
 
-## Functions
 
 <dl>
 <dt><a href="#getDevices">getDevices()</a></dt>
