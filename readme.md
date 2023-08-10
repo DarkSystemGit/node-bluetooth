@@ -25,7 +25,7 @@ A libary to deal with bluetooth on linux
 ## nodeBluez
 **Kind**: global variable  
 **Version**: 1.0.0  
-**Author**: Dark System <pdarksystem@gmail.com>  
+**Author**: Dark System 
 <a name="getDevices"></a>
 
 ## getDevices()
