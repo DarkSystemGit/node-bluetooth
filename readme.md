@@ -1,9 +1,4 @@
-## Members
-
-<dl>
-<dt><a href="#nodeBluez">nodeBluez</a></dt>
-<dd></dd>
-</dl>
+#Node-BlueZ
 
 ## Functions
 
